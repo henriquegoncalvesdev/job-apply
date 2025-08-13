@@ -1,0 +1,19 @@
+{
+  "default": {
+    "name": "Seu Nome",
+    "email": "seu@email.com",
+    "skills": ["Python", "Selenium", "OpenCV", "AI"],
+    "location": "São Paulo, Brasil",
+    "experience": [
+      {
+        "title": "Desenvolvedor Python",
+        "company": "Empresa X",
+        "years": 2
+      }
+    ],
+    "preferences": {
+      "remote": true,
+      "full_time": true
+    }
+  }
+}
